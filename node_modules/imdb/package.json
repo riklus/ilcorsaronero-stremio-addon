@@ -1,0 +1,24 @@
+{
+  "name": "imdb",
+  "version": "0.0.1",
+  "description": "Node IMDB API scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shaundunne/imdb-node.git"
+  },
+  "keywords": [
+    "IMDB",
+    "API",
+    "Scrape"
+  ],
+  "author": "Shaun Dunne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaundunne/imdb-node/issues"
+  },
+  "homepage": "https://github.com/shaundunne/imdb-node"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ilcorsaronero-stremio-addon",
+  "version": "1.0.0",
+  "description": "Un addon non ufficiale per vedere film torrent in italiano che si appoggia sul sito de ilCorSaRoNeRo.",
+  "type": "module",
+  "main": "addon.js",
+  "scripts": {
+    "test": "node addon.js"
+  },
+  "keywords": [
+    "ilcorsaronero",
+    "unofficial",
+    "stremio-addon"
+  ],
+  "author": "riklus",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "imdb": "^0.0.1",
+    "path": "^0.12.7",
+    "request-promise": "^4.2.6",
+    "stremio-addon-sdk": "^1.6.5",
+    "url": "^0.11.0"
+  }
+}
