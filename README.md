@@ -2,13 +2,7 @@
 
 Add-on Stremio *non* ufficale per ilCorSaRoNeRo.  
 
-**ATTENZIONE:**  
-**Non supporto la pirateria.**  
-**Non sono affiliato in ALCUN modo a ilCorSaRoNeRo.**  
-**Questo progetto NON contiene alcun torrent o materiale protetto da copyright. Inoltre NON contiene alcun link a pagine che detengono materiale protetto da copyright.**
-
-
-Questo addon è stato creato solo per procrastinare lo studio di LDP.
+Questo addon è stato creato, a scopo dimostrativo, solo per procrastinare lo studio di LDP.
 
 ## Setup
 
@@ -51,7 +45,7 @@ HTTP addon accessible at: http://127.0.0.1:7000/manifest.json
 ```
 Now, copy the link http://127.0.0.1:7000/manifest.json
 
-## Add the addon in Stremio
+## Add the addon to Stremio
 1. Open Stremio
 2. Click the "puzzle thingy" in the top right of the screen
 3. Click the "Search Addon" bar
@@ -59,5 +53,18 @@ Now, copy the link http://127.0.0.1:7000/manifest.json
 5. Press enter to add the addon
 
 
-All Done :)
+All Done :)  
 
+---
+
+# Disclaimer
+
+**ATTENTION:**  
+I do NOT endorse piracy.  
+I am NOT affiliated with ilCorSaRoNeRo in ANY way.  
+This project does NOT contain any torrent or copyright protected material. Furthermore it does NOT contain any link to webpages detaining copyright protected material.  
+
+**ATTENZIONE:**  
+NON sostengo la pirateria.   
+NON sono affiliato in ALCUN modo a ilCorSaRoNeRo.   
+Questo progetto NON contiene alcun torrent o materiale protetto da copyright. Inoltre NON contiene alcun link a pagine che conservano materiale protetto da copyright.
