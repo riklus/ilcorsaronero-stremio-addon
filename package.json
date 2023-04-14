@@ -17,7 +17,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "fs": "^0.0.1-security",
-    "imdb": "^0.0.1",
+    "imdb-api": "^4.4.1",
     "path": "^0.12.7",
     "request-promise": "^4.2.6",
     "stremio-addon-sdk": "^1.6.5",
