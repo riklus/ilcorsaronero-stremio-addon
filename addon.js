@@ -101,7 +101,7 @@ async function movieHandler(args) {
     console.log(`New Request For: ${query}`)
     
     // searching the site
-    let url = `https://ilcorsaronero.pro/torrent-ita/1/${query}.html`
+    let url = `https://ilcorsaronero.link/torrent-ita/1/${query}.html`
     let html = await rp(url)
 
     // scraping results
